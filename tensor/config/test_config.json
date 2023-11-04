@@ -1,0 +1,5 @@
+{
+  "browser": "Chrome",
+  "mode": "Headless",
+  "implisit_wait": 15
+}
